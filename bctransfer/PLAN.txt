@@ -1,0 +1,14 @@
+1. scrapes bc transfer for courses
+2. proceeds to scrapes for other institutions 
+3. creates JSON file for another app in progress: EduRidge
+ 0		JSON template: 
+	1		Department: <dep name>
+			Courses : list
+		2		course number : <NUMBER>
+				institutions: list
+			3			name: <institution>
+						properties: list 
+				4			power: <power>
+							time: <time>
+
+

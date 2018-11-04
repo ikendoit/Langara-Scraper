@@ -1,0 +1,342 @@
+[
+    {
+        "courses": [], 
+        "dept": "Aboriginal Studies", 
+        "symbol": "ABST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Anthropology", 
+        "symbol": "ANTH"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Applied Planning", 
+        "symbol": "APPL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Applied Science", 
+        "symbol": "APSC"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Art History", 
+        "symbol": "AHIS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Asian Studies", 
+        "symbol": "ASIA"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Astronomy", 
+        "symbol": "ASTR"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Biology", 
+        "symbol": "BIOL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Business Computer Applications", 
+        "symbol": "BCAP"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Business Management", 
+        "symbol": "BUSM"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Canadian Studies", 
+        "symbol": "CNST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Chemistry", 
+        "symbol": "CHEM"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Chinese", 
+        "symbol": "CHIN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Classical Studies", 
+        "symbol": "CLST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Computing science and Information Systems", 
+        "symbol": "CSIS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Criminal Justice", 
+        "symbol": "CJUS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Film Arts", 
+        "symbol": "FLMA"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Co-operative Education", 
+        "symbol": "COOP"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Communications", 
+        "symbol": "CMNS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Computer Science", 
+        "symbol": "CPSC"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Criminology", 
+        "symbol": "CRIM"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Design", 
+        "symbol": "DSGN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Early Childhood Education", 
+        "symbol": "ECED"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Economics", 
+        "symbol": "ECON"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Education Assistant", 
+        "symbol": "EDAS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "English", 
+        "symbol": "ENGL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Environmental Studies", 
+        "symbol": "ENVS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Family Studies", 
+        "symbol": "FMST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Field Studies - International", 
+        "symbol": "FSIE"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Financial Management", 
+        "symbol": "FMGT"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Fine Arts", 
+        "symbol": "FINA"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Food Services", 
+        "symbol": "FSRV"
+    }, 
+    {
+        "courses": [], 
+        "dept": "French", 
+        "symbol": "FREN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Geography", 
+        "symbol": "GEOG"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Geology", 
+        "symbol": "GEOL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Health Sciences", 
+        "symbol": "HSCI"
+    }, 
+    {
+        "courses": [], 
+        "dept": "History", 
+        "symbol": "HIST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "International Business", 
+        "symbol": "INTB"
+    }, 
+    {
+        "courses": [], 
+        "dept": "International Exchange", 
+        "symbol": "EXCH"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Japanese", 
+        "symbol": "JAPN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Journalism", 
+        "symbol": "JOUR"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Kinesiology", 
+        "symbol": "KINS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Latin", 
+        "symbol": "LATN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Latin American Studies", 
+        "symbol": "LAMS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Library", 
+        "symbol": "LIBR"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Marketing", 
+        "symbol": "MARK"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Mathematics", 
+        "symbol": "MATH"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Nursing", 
+        "symbol": "NURS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Nutrition", 
+        "symbol": "NUTR"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Peace & Conflict Studies", 
+        "symbol": "PCCN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Philosophy", 
+        "symbol": "PHIL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Physical Education", 
+        "symbol": "PHED"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Physics", 
+        "symbol": "PHYS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Political Science", 
+        "symbol": "POLI"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Professional Photography", 
+        "symbol": "PHOT"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Psychology", 
+        "symbol": "PSYC"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Publishing", 
+        "symbol": "PUBL"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Recreation", 
+        "symbol": "RECR"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Religious Studies", 
+        "symbol": "RELS"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Science", 
+        "symbol": "SCIE"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Social Service Worker", 
+        "symbol": "SSRV"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Sociology", 
+        "symbol": "SOCI"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Spanish", 
+        "symbol": "SPAN"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Statistics", 
+        "symbol": "STAT"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Theatre Arts", 
+        "symbol": "THEA"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Web Mobile App Dsgn & Develpmt", 
+        "symbol": "WMDD"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Women's Studies", 
+        "symbol": "WMST"
+    }, 
+    {
+        "courses": [], 
+        "dept": "Work Experience", 
+        "symbol": "EXPE"
+    }
+]
