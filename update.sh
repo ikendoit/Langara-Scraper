@@ -13,8 +13,8 @@ if [ $? = "0" ]; then
 
 	if [ $? = "0" ]; then 
 		echo "copying final.json, days.json"
-		cp final.json $DESTINATION_DIR/all-courses-langara.json
-		cp days.json $DESTINATION_DIR/all-days-data-langara.json
+		mv final.json $DESTINATION_DIR/all-courses-langara.json
+		mv days.json $DESTINATION_DIR/all-days-data-langara.json
 	else 
 		echo " problem with scanning rooms" 
 	fi 
@@ -25,7 +25,7 @@ if [ $? = "0" ]; then
 
 	if [ $? = "0" ]; then 
 		echo "copying avails.json"
-		cp avails.json $DESTINATION_DIR/available-courses-langara.json
+		mv avails.json $DESTINATION_DIR/available-courses-langara.json
 	else 
 		echo "problem runing filter"
 	fi
@@ -33,7 +33,7 @@ if [ $? = "0" ]; then
 
 	cd newslangara/ 
 	python scrape.py 
-	cp news.json $DESTINATION_DIR/langara-news.json
+	mv news.json $DESTINATION_DIR/langara-news.json
 	cd ../
 
 	echo "done, waiting for new iteration"
