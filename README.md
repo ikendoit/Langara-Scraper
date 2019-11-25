@@ -1,29 +1,30 @@
 # Langara Scraper Suite 
 
-A part of this suite was used in a cron job for this app - EduRidge: https://www.youtube.com/watch?v=MWfDuXaSP6M
+A part of this suite was used in a cron job for this app [EduRidge](https://www.youtube.com/watch?v=MWfDuXaSP6M)
 
 First, a cli introduction: https://www.youtube.com/watch?v=auEVoUIkh6s&feature=youtu.be
 
 ## Functions: 
 
-```
-  - Scrape Langara all courses Data.
-	- Scrape Langara News on the front page. 
-	- Scrape BCtransfer page to see transferability of any course in Langara. ( eg: what courses of all BC's universities can Langara's CPSC1181 transfer to ? )
-	- Extract data of available courses left to register.
-	- Extract data of classrooms in Langara and when they are free so we can have a nap in.
-	- Extract data of Langara's Programs, so that we know what courses to take to finish a Langara Program.
-	- Extract data of free time a student has based on their courses ID ( which are given as CRN codes )
-	- And more, It has been so long I think I went crazy and pumped hidden features back then.
-```
+* Extract 
+	* Data for all courses
+	* Front page of Langara News
+	* BCTransfer Page to see transferability of any course in Langara. ( eg: what courses of all BC's universities can Langara's CPSC1181 transfer to ? )
+	* Available courses with open seats.
+	* Classroom data and when they are free so we can have a nap in.
+	* Langara Program data, so that we know what courses to take to finish a Langara Program.
+	* Data of free time a student has based on their courses ID (which are given as CRN codes)
+	* And more! It has been so long I think I went crazy and pumped hidden features back then.
 
-## How To Run:
-```
-	- download phantomJS headless, add in "./coursesLangara/" directory as file "phantomjs"
-	- chmod 775 update.sh
-	- ./udpate.sh
-	- check this directory for Langara files (destination directory can be modified in update.sh)
-```
+
+## How To Run
+
+* Download [phantomJS](https://phantomjs.org/download.html) headless
+* Add phantomJS .exe file in `"./coursesLangara/"` directory with name `"phantomjs"`
+* Grant permission to update.sh by entering in command line: [chmod 775](https://chmodcommand.com/chmod-775/) update.sh
+* ./update.sh
+* Check this directory for Langara files (destination directory can be modified in update.sh)
+
 
 ## Credits: 
 
